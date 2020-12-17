@@ -11,5 +11,9 @@
     "url": "\u0016https://github.com/seerde/side-project-1.git"
   },
   "author": "seerde",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jquery": "^3.5.1"
+  }
 }
