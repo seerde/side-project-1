@@ -1,0 +1,15 @@
+{
+  "name": "project1-game",
+  "version": "1.0.0",
+  "description": "project 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/seerde/side-project-1.git"
+  },
+  "author": "seerde",
+  "license": "ISC"
+}
